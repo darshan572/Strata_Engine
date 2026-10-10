@@ -1,5 +1,4 @@
 
-```markdown
 <div align="center">
 
 # 🌿 SylvaSearch
@@ -238,4 +237,3 @@ Add your chosen open-source license here. Until a license is included, users sho
 [⬆ Back to Top](#-sylvasearch)
 
 </div>
-```
